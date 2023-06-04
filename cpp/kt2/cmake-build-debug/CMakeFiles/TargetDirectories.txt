@@ -1,0 +1,3 @@
+C:/Users/thomaspa/Desktop/kt2cpp/cmake-build-debug/CMakeFiles/kt2cpp.dir
+C:/Users/thomaspa/Desktop/kt2cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/thomaspa/Desktop/kt2cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
